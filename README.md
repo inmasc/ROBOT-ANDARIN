@@ -34,6 +34,4 @@ La placa Arduino va situada delante arriba, y su alimentación detrás abajo.
 
 ## Programación
 
-Descripción interesante sobre la programación
-
 ![](Practica.jpg)
